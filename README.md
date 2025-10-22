@@ -1,7 +1,7 @@
 # claude-hooks
 collection of hooks
 
-This one hook "ecosystem" restarts your claude in tmux session, pastes your prompt of choice into a new session and takes it from there.  
+This one hook "ecosystem" (re)starts your claude with --dangerously-skip-permissions in tmux session, pastes your prompt of choice into a new session and takes it from there.  
 Ideal for orchestrator based multi-agent workflows. 
 
 Pre-requisites: 
