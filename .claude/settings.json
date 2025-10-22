@@ -1,0 +1,12 @@
+"hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/claudius/.claude/hooks/stop_blocker.py"
+          }
+        ]
+      }
+    ]
+  }
